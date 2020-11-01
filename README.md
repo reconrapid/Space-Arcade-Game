@@ -1,0 +1,4 @@
+# Space-Arcade-Game
+A short, simple & easily modifiable arcade space game in which the objective is to dodge & destroy wave after wave of enemy ships. I made the game using the SFML library to ease the development & used C++ to create each subsystem of the game. The game uses text files for each level so the player can easily create their own levels or modify existing ones by simply providing the game with a text file of values that the game will interpret to determine which enemies to spawn, their speed, health & other statistics. 
+
+NOTE: As the game uses SFML, to run the game yourself you will need to download SFML from https://www.sfml-dev.org/index.php & follow the guidance on https://www.sfml-dev.org/tutorials/2.5/start-vc.php so that the project knows where to find the necessary library files required to run. 
